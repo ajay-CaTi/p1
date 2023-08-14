@@ -1,0 +1,32 @@
+{
+  "name": "react-p1",
+  "version": "1.0.0",
+  "description": "ignite react p1",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay-CaTi/p1.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay-CaTi/p1/issues"
+  },
+  "homepage": "https://github.com/ajay-CaTi/p1#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
