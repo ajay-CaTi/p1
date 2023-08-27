@@ -298,3 +298,5 @@ The dist folder, short for distribution folder, is dynamically generated when us
 # what is browserlists?(vite, webpack, parcel)
 
 is a package internally used by parcel used to mension the version of browser over which our app will run
+
+Modified
