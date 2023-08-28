@@ -300,3 +300,9 @@ The dist folder, short for distribution folder, is dynamically generated when us
 is a package internally used by parcel used to mension the version of browser over which our app will run
 
 Modified
+
+git remote add origin link
+git remote -v (to verify remote)
+git branch (to chack branch)
+git branch -M main (to rename branch)
+git push origin main
